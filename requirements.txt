@@ -5,7 +5,7 @@ gunicorn==23.0.0
 starlette==0.47.2
 
 # ML + CV
-tensorflow==2.20.0
+tensorflow==2.15.0
 mediapipe==0.10.21
 opencv-python==4.9.0.80
 opencv-contrib-python==4.9.0.80
