@@ -20,6 +20,7 @@ idna==3.7
 importlib-metadata==8.4.0
 itsdangerous==2.1.2
 jax==0.4.30
+jaxlib==0.4.30
 keras==3.3.3
 kiwisolver==1.4.5
 libclang==18.1.1
@@ -29,11 +30,12 @@ markupsafe==2.1.5
 matplotlib==3.9.2
 mdurl==0.1.2
 mediapipe==0.10.21
-ml-dtypes==0.4.0
+ml-dtypes==0.3.2
 namex==0.0.8
 numpy==1.26.4
 oauthlib==3.2.2
-opencv-python-headless==4.10.0.84
+opencv-contrib-python==4.12.0.88
+opencv-python==4.12.0.88
 opt-einsum==3.3.0
 optree==0.12.1
 packaging==24.1
@@ -47,7 +49,9 @@ requests==2.32.3
 requests-oauthlib==2.0.0
 rsa==4.9
 scipy==1.13.1
+sentencepiece==0.2.1
 six==1.16.0
+sounddevice==0.5.2
 tensorboard==2.16.2
 tensorboard-data-server==0.7.2
 tensorflow==2.16.1
@@ -55,6 +59,7 @@ tensorflow-io-gcs-filesystem==0.37.1
 termcolor==2.4.0
 typing-extensions==4.12.2
 urllib3==2.2.2
+uvicorn==0.35.0
 werkzeug==3.0.3
 wrapt==1.16.0
 zipp==3.20.0
