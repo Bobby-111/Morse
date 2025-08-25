@@ -19,10 +19,7 @@ grpcio==1.74.0
 h11==0.16.0
 h5py==3.14.0
 idna==3.10
-jax==0.6.2
-jaxlib==0.6.2
 joblib==1.5.1
-keras==3.11.3
 kiwisolver==1.4.9
 libclang==18.1.1
 Markdown==3.8.2
@@ -40,7 +37,7 @@ opt_einsum==3.4.0
 optree==0.17.0
 packaging==25.0
 pillow==11.3.0
-protobuf==6.32.0
+protobuf>=4.25.3,<5
 pycparser==2.22
 pydantic==2.11.7
 pydantic_core==2.33.2
