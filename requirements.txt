@@ -31,8 +31,8 @@ mediapipe==0.10.21
 ml_dtypes==0.5.3
 namex==0.1.0
 numpy==1.26.4
-opencv-contrib-python==4.11.0.86
-opencv-python==4.12.0.88
+opencv-contrib-python==4.9.0.80
+opencv-python==4.9.0.80
 opt_einsum==3.4.0
 optree==0.17.0
 packaging==25.0
